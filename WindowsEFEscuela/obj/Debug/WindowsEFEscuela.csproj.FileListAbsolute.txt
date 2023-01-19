@@ -1,0 +1,17 @@
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.AssemblyReference.cache
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Properties.Resources.resources
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.GenerateResource.cache
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CoreCompileInputs.cache
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.exe.config
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.exe
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.pdb
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.dll
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.xml
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Form1.resources
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CopyComplete
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.exe
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.pdb
+C:\Users\samu\Desktop\Bootcamp Accenture\Programación Web Net Core\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.initial.resources

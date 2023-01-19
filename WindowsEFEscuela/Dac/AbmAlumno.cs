@@ -16,9 +16,9 @@ namespace WindowsEFEscuela.Dac
             return context.Alumnos.ToList();
         }
 
-        public static Alumno Select(int id)
+        public static List<Alumno> Select(int id)
         {
-            return context.Alumnos.Find(id);
+            return context.Alumnos.Where(Al => Al.IdAlumno == id).ToList();
         }
 
         public static string Insert(Alumno alumno)
@@ -32,19 +32,20 @@ namespace WindowsEFEscuela.Dac
 
         }
 
-        public static string Update(Alumno alumno)
+        public static string Update(int id, string Nombre, string Apellido, int Profesor_Id, DateTime FechaNacimiento)
         {
 
-            Alumno alumnoOrigen = context.Alumnos.Find(alumno.IdAlumno);
+            Alumno alumnoOrigen = context.Alumnos.Find(id);
 
 
             try
             {
-                alumnoOrigen.Nombre = alumno.Nombre;
-                alumnoOrigen.Apellido = alumno.Apellido;
-                alumnoOrigen.Profesor = alumno.Profesor;
-                alumnoOrigen.FechaNacimiento = alumno.FechaNacimiento;
+                alumnoOrigen.Nombre = Nombre;
+                alumnoOrigen.Apellido = Apellido;
+                alumnoOrigen.Profesor_Id = Profesor_Id;
+                alumnoOrigen.FechaNacimiento = FechaNacimiento;
 
+                context.SaveChanges();
                 return "Update ok";
             }
             catch (Exception ex)
@@ -63,7 +64,9 @@ namespace WindowsEFEscuela.Dac
             try
             {
 
-                var resultado = context.Alumnos.Remove(context.Alumnos.Single(a => a.IdAlumno == id));
+                context.Alumnos.Remove(context.Alumnos.Single(a => a.IdAlumno == id));
+
+                context.SaveChanges();
 
                 return "Delete ok";
             }
